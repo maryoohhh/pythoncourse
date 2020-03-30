@@ -2,10 +2,11 @@
 
 ## Introduction
 
-Python
-: programming language that lets you work quickly and integrate systems more effectively.
-: can be used for web and desktop application, scientific computing, and game development.
+<dl>
+<dt>Python</dt>
+<dd>Programming language that lets you work quickly and integrate systems more effectively.</dd>
+<dd>Can be used for web and desktop application, scientific computing, and game development.</dt>
 
-Variable
-: is a name or label that you assign to the storage location whose value can be manipulated during the program execution.
+<dt>Variable</dd>
+<dd>A name or label that you assign to the storage location whose value can be manipulated during the program execution.</dd>
 
