@@ -20,10 +20,13 @@
 
 > 'num1 = input("Enter a number: ")'
 >> Enter a number: 20
+
 > 'num1 + 20'
 >> TypeError: must be str, not int
+
 > 'num2 = eval(input("Enter a number: "))
 >> Enter a number: 20
+
 > 'num2 + 20'
 >> 40
 
