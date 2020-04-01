@@ -4,3 +4,6 @@ chicken_ingredients = ['chicken wings', 'salt', 'pepper', 'potato starch', 'oil'
 
 for i in sorted(chicken_ingredients):
     print(i)
+
+for i in reversed(sorted(chicken_ingredients)):
+    print(i)
