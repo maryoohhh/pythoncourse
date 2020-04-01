@@ -17,3 +17,9 @@ filling_ingredients_lookup = {
     "heavy cream - tbsp": 3
 }
 
+print ("Macaron ingredients:") 
+for key in macaron_ingredients_lookup:
+    print(key, ': ', value)
+
+#print (macaron_ingredients_lookup)
+print (filling_ingredients_lookup)
