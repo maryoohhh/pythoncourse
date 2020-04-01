@@ -19,7 +19,8 @@ filling_ingredients_lookup = {
 
 print ("Macaron ingredients:") 
 for key, value in macaron_ingredients_lookup.items():
-    print(key, ': ', value)
+    print(key, ':', value)
 
-#print (macaron_ingredients_lookup)
-print (filling_ingredients_lookup)
+print ("\nButtercream filling ingredients:") 
+for key, value in filling_ingredients_lookup.items():
+    print(key, ':', value)
