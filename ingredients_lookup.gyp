@@ -18,7 +18,7 @@ filling_ingredients_lookup = {
 }
 
 print ("Macaron ingredients:") 
-for key in macaron_ingredients_lookup:
+for key, value in macaron_ingredients_lookup.items():
     print(key, ': ', value)
 
 #print (macaron_ingredients_lookup)
